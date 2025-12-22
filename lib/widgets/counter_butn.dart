@@ -1,4 +1,3 @@
-import 'package:count/widgets/counter_box.dart';
 import 'package:flutter/material.dart';
 
 class CounterButn extends StatelessWidget {
@@ -17,8 +16,8 @@ class CounterButn extends StatelessWidget {
     return InkWell(
       onTap: myOnTap,
       child: Container(
-        width: 200,
-        height: 200,
+        width: 130,
+        height: 130,
         color: color,
         alignment: Alignment.center,
         child: Text(

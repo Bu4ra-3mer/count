@@ -22,8 +22,4 @@ https://github.com/user-attachments/assets/6963e719-bb44-491d-8028-d26959a15e09
 - Widget separation (CounterBox & CounterButton)
 - Passing data and callbacks between widgets
 
-## 📦 Getting Started
-This project is a Flutter application.
 
-For help getting started with Flutter development, view the  
-[online documentation](https://docs.flutter.dev/).

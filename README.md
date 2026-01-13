@@ -1,16 +1,29 @@
-# count
+# count 🔢
 
-A new Flutter project.
+A simple Flutter counter application demonstrating basic state management and reusable widgets.
 
-## Getting Started
+## 📱 App Demo
+https://github.com/user-attachments/assets/6963e719-bb44-491d-8028-d26959a15e09
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Increment & decrement counter
+- Clean and minimal UI
+- Reusable custom widgets
+- Smooth state updates using setState
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 Concepts Used
+- StatefulWidget
+- setState for state management
+- Widget separation (CounterBox & CounterButton)
+- Passing data and callbacks between widgets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Getting Started
+This project is a Flutter application.
+
+For help getting started with Flutter development, view the  
+[online documentation](https://docs.flutter.dev/).
